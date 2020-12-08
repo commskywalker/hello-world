@@ -1,2 +1,5 @@
 # hello-world
-First repository (again 2)
+
+Hi, Worms!
+
+Commander here, I like gaming and architecting
